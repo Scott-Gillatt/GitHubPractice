@@ -1,2 +1,3 @@
 IgnoreFolder/
-debug.log
+
+*.log
